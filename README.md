@@ -58,3 +58,11 @@ Integration with Other Circuits: We aim to integrate this op-amp design into lar
 This project demonstrated the principles of designing high-gain operational amplifiers using telescopic cascode architecture. While we achieved a significant improvement in gain, there are still opportunities for further optimization and validation.
 
 Feel free to contribute to this project or reach out with suggestions and improvements!
+
+Contributors:
+- Mandalika Vishnu Vardhan
+- Kunal Ghosh
+
+Acknowledgements:
+- Kunal Ghosh, Director, VSD Corp. Pvt. Ltd.
+- Ankur Sah, M.Tech Embedded Systems, NIT Jamshedpur
